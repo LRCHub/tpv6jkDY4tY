@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "base_track": "僕らまた",
+  "base_artist": "SG",
+  "createdAt": "2026-03-21T14:11:38.128026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕らまた (吹奏楽 ver.)",
+      "artist": "SG",
+      "has_synced": true,
+      "path": "select/01_僕らまた_(吹奏楽_ver.)_SG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕らまた",
+      "artist": "SG",
+      "has_synced": false,
+      "path": "select/pl_01_僕らまた_SG.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "僕らまた",
+      "artist": "SG",
+      "has_synced": true,
+      "path": "select/localdb_01_僕らまた_SG.lrc",
+      "repo_name": "hSdcy2_vtaQ"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "僕らまた",
+      "artist": "SG",
+      "has_synced": true,
+      "path": "select/localdb_02_僕らまた_SG.lrc",
+      "repo_name": "CiYGoHWwdAg"
+    }
+  ]
+}
