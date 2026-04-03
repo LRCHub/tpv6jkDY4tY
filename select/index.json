@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "僕らまた",
   "base_artist": "SG",
-  "createdAt": "2026-03-21T14:43:52.402379Z",
+  "createdAt": "2026-04-03T08:32:11.660349Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,7 +27,7 @@
       "artist": "SG",
       "has_synced": true,
       "path": "select/localdb_01_僕らまた_SG.lrc",
-      "repo_name": "hSdcy2_vtaQ"
+      "repo_name": "ILsu9Hzj0e0"
     },
     {
       "id": "localdb_2",
@@ -37,6 +37,15 @@
       "has_synced": true,
       "path": "select/localdb_02_僕らまた_SG.lrc",
       "repo_name": "CiYGoHWwdAg"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "僕らまた",
+      "artist": "SG",
+      "has_synced": true,
+      "path": "select/localdb_03_僕らまた_SG.lrc",
+      "repo_name": "hSdcy2_vtaQ"
     }
   ]
 }
